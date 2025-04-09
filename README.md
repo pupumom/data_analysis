@@ -1,5 +1,8 @@
 # 📊 Data Analysis Projects
 
+![GitHub last commit](https://img.shields.io/github/last-commit/pupumom/data_analysis)
+![GitHub repo size](https://img.shields.io/github/repo-size/pupumom/data_analysis)
+
 이 리포지토리는 다양한 데이터 분석 프로젝트들을 정리한 공간입니다.  
 직접 수집한 데이터와 Python 기반의 분석 코드, 시각화 결과를 통해  
 실제 문제 해결 방식과 인사이트 도출 과정을 보여주고 있습니다.
