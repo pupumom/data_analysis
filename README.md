@@ -14,6 +14,11 @@
 브랜드 입지 전략을 비교·분석한 프로젝트입니다.  
 👉 [블로그 보러가기](https://velog.io/@yeongdecember/Data-Analysis-이디야-vs-스타벅스-매장-위치-분석으로-본-브랜드-전략-feat.-웹크롤링-수집)
 
+### [서울시 주유소 유가정보 분석](./oil_price/README.md)
+서울시의 주유소 정보를 웹 크롤링하여 
+셀프 주유소와 일반 주유소의 유가 차이를 분석한 프로젝트입니다.
+👉 [블로그 보러가기](https://velog.io/@yeongdecember/Data-Analysis-셀프-주유소와-일반-주유소-간-유가-분석-feat.-웹크롤링)
+
 ---
 
 ## 🛠 기술 스택
